@@ -1,0 +1,2 @@
+The aim of this project i s to develop a functional classifier for accurate and automatic sentiment classification of an unknown tweet stream. That i s classifying tweets according to the sentiment expressed i n them: positive, negative or neutral. Analysing the public sentiment i s i mportant for many applications such as firms trying to find out the response of their products i n the market, predicting political elections and predicting socioeconomic
+phenomena like stock exchange.
